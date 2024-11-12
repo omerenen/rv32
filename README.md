@@ -3,8 +3,6 @@
 RISC-V processor 32-bit pipelined, including I-set instructions.
 
 ## Schematic Diagram
-Below is the schematic diagram of the RV32 processor:
-
 ![RV32 Schematic](./docs/schematic.png)
 
 
